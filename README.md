@@ -7,7 +7,7 @@
  
  I'm studying information systems in the university, I have a little  knowledge in Frond End like react.js, HTML/CSS/Bootstrap, and on the Back End I know little bit of PHP and MySQL.Currently I'm studying about Flutter and I'm very exicated with it. In my spare time I like to play some games, play my guitar, watch and read some animes and mangas :D 
 
-# 🧐 About
+## 🧐 About
 
 - 🌱 I’m currently learning Flutter 
 - 🤜🏻🤛🏻 I like to help other people 
