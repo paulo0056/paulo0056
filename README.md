@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: 
+- 📫 How to reach me:    
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/paulo-andré-dev)](www.linkedin.com/in/paulo-andré-dev)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
