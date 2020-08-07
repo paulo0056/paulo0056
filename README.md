@@ -1,5 +1,5 @@
 # Paulo André
-[![Linkedln Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/paulo-andré-dev)](www.linkedin.com/in/paulo-andré-dev)
+[![Linkedln Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/paulo-andré-dev)(www.linkedin.com/in/paulo-andré-dev)
 #
 ## Hi there 👋
 
